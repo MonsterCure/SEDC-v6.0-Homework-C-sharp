@@ -1,0 +1,7 @@
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp HW 04 (Challenges)\C-sharp HW 04 (Challenges)\obj\Debug\C-sharp HW 04 (Challenges).csprojResolveAssemblyReference.cache
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp HW 04 (Challenges)\C-sharp HW 04 (Challenges)\obj\Debug\C-sharp HW 04 (Challenges).csproj.CoreCompileInputs.cache
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp HW 04 (Challenges)\C-sharp HW 04 (Challenges)\bin\Debug\C-sharp HW 04 (Challenges).exe.config
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp HW 04 (Challenges)\C-sharp HW 04 (Challenges)\bin\Debug\C-sharp HW 04 (Challenges).exe
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp HW 04 (Challenges)\C-sharp HW 04 (Challenges)\bin\Debug\C-sharp HW 04 (Challenges).pdb
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp HW 04 (Challenges)\C-sharp HW 04 (Challenges)\obj\Debug\C-sharp HW 04 (Challenges).exe
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp HW 04 (Challenges)\C-sharp HW 04 (Challenges)\obj\Debug\C-sharp HW 04 (Challenges).pdb
