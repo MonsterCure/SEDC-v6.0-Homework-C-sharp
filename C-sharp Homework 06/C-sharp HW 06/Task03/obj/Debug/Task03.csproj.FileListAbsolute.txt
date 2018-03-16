@@ -1,0 +1,7 @@
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp Homework 06\C-sharp HW 06\Task03\bin\Debug\Task03.exe.config
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp Homework 06\C-sharp HW 06\Task03\bin\Debug\Task03.exe
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp Homework 06\C-sharp HW 06\Task03\bin\Debug\Task03.pdb
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp Homework 06\C-sharp HW 06\Task03\obj\Debug\Task03.csproj.CoreCompileInputs.cache
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp Homework 06\C-sharp HW 06\Task03\obj\Debug\Task03.exe
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp Homework 06\C-sharp HW 06\Task03\obj\Debug\Task03.pdb
+C:\Users\Earendil\Downloads\SEDC\Ca - Homework Back-end\C-sharp Homework 06\C-sharp HW 06\Task03\obj\Debug\Task03.csprojResolveAssemblyReference.cache
